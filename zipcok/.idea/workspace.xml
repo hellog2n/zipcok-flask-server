@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8239951a-efe6-4ea9-bc4d-481b2e7f2102" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="00138202-135f-4bd7-b312-ec8ce5ea07a6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/zipcok.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/zipcok.iml" afterDir="false" />
     </list>
@@ -22,11 +21,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1i92YF3woTyaob65ZATUbszzkOp" />
+  <component name="ProjectId" id="1iCL2rkeVVDgrfp1MIOKLeE2QOI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -46,11 +44,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8239951a-efe6-4ea9-bc4d-481b2e7f2102" name="Default Changelist" comment="" />
-      <created>1601305532664</created>
+      <changelist id="00138202-135f-4bd7-b312-ec8ce5ea07a6" name="Default Changelist" comment="" />
+      <created>1601406422020</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1601305532664</updated>
+      <updated>1601406422020</updated>
     </task>
     <servers />
   </component>
@@ -59,7 +57,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
